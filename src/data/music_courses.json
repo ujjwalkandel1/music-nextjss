@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano Essentials",
+            "description": "Master the basics of playing the piano, from reading sheet music to playing chords.",
+            "price": 129.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Violin for Beginners",
+            "description": "Start your violin journey with this beginner's course, covering basic techniques and songs.",
+            "price": 109.99,
+            "instructor": "Emily Davis",
+            "isFeatured": true,
+            "image": "/courses/violin.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drumming Basics",
+            "description": "Learn the fundamentals of drumming, including rhythm patterns and techniques.",
+            "price": 89.99,
+            "instructor": "Michael Brown",
+            "isFeatured": false,
+            "image": "/courses/drums.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Saxophone Introduction",
+            "description": "Discover the basics of playing the saxophone, from breathing techniques to simple melodies.",
+            "price": 119.99,
+            "instructor": "David Johnson",
+            "isFeatured": true,
+            "image": "/courses/saxophone.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Flute Mastery",
+            "description": "Develop your flute playing skills with this course, focusing on tone, technique, and expression.",
+            "price": 99.99,
+            "instructor": "Sarah Wilson",
+            "isFeatured": true,
+            "image": "/courses/flute.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Bass Guitar Fundamentals",
+            "description": "Learn the essential techniques for playing bass guitar, including scales and grooves.",
+            "price": 109.99,
+            "instructor": "Thomas Miller",
+            "isFeatured": true,
+            "image": "/courses/bassguitar.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Ukulele for Beginners",
+            "description": "Start playing the ukulele with this beginner's course, covering chords, strumming, and songs.",
+            "price": 69.99,
+            "instructor": "Laura Anderson",
+            "isFeatured": false,
+            "image": "/courses/ukulele.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Trumpet Techniques",
+            "description": "Learn the basics of trumpet playing, from proper breathing to mastering scales.",
+            "price": 119.99,
+            "instructor": "Sophia Martinez",
+            "isFeatured": true,
+            "image": "/courses/trumpet.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Cello Essentials",
+            "description": "Get started with cello playing, covering posture, bowing techniques, and beginner songs.",
+            "price": 139.99,
+            "instructor": "William Lee",
+            "isFeatured": true,
+            "image": "/courses/cello.jpg"
+        }
+    ]
+}
